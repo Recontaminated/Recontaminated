@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on ...
--   Luthor discord bot
+  Luthor discord bot
 - 🌱 I’m currently learning ...
--   Rust🦀
+  Rust🦀
 - 📫 How to reach me: ...
--   Discord: Recon#1701
+  Discord: Recon#1701
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Recontaminated)](https://github.com/anuraghazra/github-readme-stats)
